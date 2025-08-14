@@ -3,3 +3,4 @@ crewai
 duckduckgo-search
 openai
 fpdf
+chromadb==0.3.33
