@@ -1,7 +1,7 @@
+chromadb==0.3.33
+crewai==0.152.0
 streamlit
 openai
 fpdf
 duckduckgo-search
-crewai==0.152.0
-chromadb==0.4.24
 
