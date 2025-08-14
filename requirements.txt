@@ -3,3 +3,5 @@ crewai==0.152.0
 duckduckgo-search
 openai
 fpdf
+pip install crewai==0.152.0 chromadb==0.4.24
+
