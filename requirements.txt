@@ -1,6 +1,5 @@
-
 streamlit
-crewai
+crewai==0.152.0
 duckduckgo-search
 openai
 fpdf
