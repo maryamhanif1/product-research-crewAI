@@ -1,6 +1,0 @@
-
-streamlit
-crewai
-duckduckgo-search
-openai
-fpdf
