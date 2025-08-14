@@ -1,5 +1,0 @@
-
-streamlit
-crewai
-duckduckgo-search
-fpdf
