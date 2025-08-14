@@ -1,6 +1,6 @@
-streamlit
-crewai
-duckduckgo-search
-openai
-fpdf
+streamlit==1.30.0
+crewai==0.1.8
+duckduckgo-search==0.6.8
+openai==0.27.10
+fpdf==1.7.2
 chromadb==0.3.33
